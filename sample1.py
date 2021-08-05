@@ -1,12 +1,5 @@
 
 
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 21 11:21:37 2019
-
-@author: Kranthi Kumar
-"""
-"""
 import numpy as np
 import os
 import matplotlib.pyplot as plt
